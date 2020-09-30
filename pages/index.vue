@@ -1,3 +1,13 @@
 <template>
   <h1>Hello world!</h1>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
+    };
+  },
+};
+</script>
