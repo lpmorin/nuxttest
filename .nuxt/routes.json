@@ -1,0 +1,23 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "/Users/lopimo/temptools/netlitest/pages/fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_b97f7120"
+  },
+  {
+    "name": "more-fun",
+    "path": "/more-fun",
+    "component": "/Users/lopimo/temptools/netlitest/pages/more-fun/index.vue",
+    "chunkName": "pages/more-fun/index",
+    "_name": "_f701b62e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/lopimo/temptools/netlitest/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_06c9af03"
+  }
+]
